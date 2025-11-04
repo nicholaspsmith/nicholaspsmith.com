@@ -5,6 +5,8 @@
 <!--toc:start-->
 ## Professional Profile
 
+[Download My Resume](./frontend/public/resume/Nicholas_Smith_Resume_2025.pdf)
+
 - [Nicholas Smith](#nicholas-smith)
   - [Software Engineer](#software-engineer)
   - [About](#about)
