@@ -15,8 +15,16 @@ body {
   margin: 0;
 }
 
+html {
+  scrollbar-width: none;
+}
+
 body {
   font-family: 'Inter', sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 app-root {

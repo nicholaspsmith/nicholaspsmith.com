@@ -1,5 +1,16 @@
+<!-- Video Background -->
+<video autoplay muted loop id="matrix-background">
+  <source src="matrix-background.mp4" type="video/mp4">
+</video>
+
+<a id="video-attribution" href="https://www.vecteezy.com/free-videos/live-wallpaper-matrix">Live Wallpaper Matrix Stock
+  Videos by
+  Vecteezy</a>
+
+<div id="background-overlay"></div>
+
 <app-navbar />
-<main class="flex-1 flex flex-col overflow-hidden">
+<main class="flex-1 flex flex-col overflow-y-scroll overflow-x-hidden">
   <div class="flex-1 flex flex-col">
     <router-outlet />
   </div>
