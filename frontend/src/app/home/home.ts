@@ -1,9 +1,10 @@
 import { Component, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { animate, stagger, splitText } from 'animejs';
 
 @Component({
   selector: 'app-home',
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './home.html',
   styleUrl: './home.css',
 })
@@ -14,7 +15,7 @@ export class Home implements AfterViewInit {
     animate(chars, {
       // Property keyframes
       y: [
-        { to: '-2.5rem', ease: 'outExpo', duration: 800 },
+        { to: '-2rem', ease: 'outExpo', duration: 800 },
         { to: 0, ease: 'outBounce', duration: 800, delay: 0 }
       ],
       delay: stagger(50),

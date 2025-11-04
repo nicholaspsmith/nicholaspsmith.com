@@ -34,7 +34,7 @@ main {
 }
 
 #background-overlay {
-  background-color: rgba(30, 41, 56, 0.87);
+  background-color: rgba(30, 41, 56, 0.5);
   display: block;
   position: fixed;
   top: 0;
