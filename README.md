@@ -16,6 +16,10 @@
   - [Website](#website)
 <!--toc:end-->
 
+## Contributions
+
+[ez40's Github Contribution Graph'](https://github-contribution-graph.ez4o.com/?username=nicholaspsmith&last_n_days=365)
+
 ## Software Engineer
 
 Charleston, SC | [nicholaspsmith.software@gmail.com](mailto:nicholaspsmith.software@gmail.com)
