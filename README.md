@@ -13,7 +13,7 @@ Development-focused software engineer with 10+ years of experience building scal
 
 ## Experience
 
-### Senior Software Engineer, MongoDB — Remote (Oct 2022 - July 2025)
+### Senior Software Engineer, MongoDB — Remote (2022 - 2025)
 Development Lead on MongoDB's Marketing team, responsible for maintaining availability and security of mongodb.com. Provided technical guidance for transition from a self-hosted in-house CRM to a managed CRM platform. Led architectural decisions around the web stack (Next.js, React, and TypeScript) to enable scalability, maintainability, and type safety. Advocated for usage of Tailwind CSS to optimize package size, maintain DRY coding standards, and streamline design to development pipeline. Mentored multiple contractors based in Brazil, Colombia, Mexico, Ukraine, and Poland to facilitate cross-timezone and cross-cultural coding work and maintain quality coding standards.
 
 ### Senior Software Engineer, Cisco — Austin, TX (2019 - 2022)
