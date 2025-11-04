@@ -1,0 +1,27 @@
+#matrix-background {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  max-height: unset;
+  max-width: unset;
+  z-index: -99;
+}
+
+#video-attribution {
+  font-size: 9px;
+  opacity: 0.3;
+  color: #ddd;
+}
+
+#background-overlay {
+  background-color: rgba(30, 41, 56, 0.87);
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -98;
+}

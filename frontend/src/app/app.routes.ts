@@ -4,6 +4,7 @@ import { About } from "./about/about";
 import { Resume } from './resume/resume';
 import { Contact } from './contact/contact';
 import { Projects } from './projects/projects';
+import { Experience } from './experience/experience';
 
 export const routes: Routes = [
   {
@@ -22,10 +23,12 @@ export const routes: Routes = [
     path: 'projects',
     component: Projects,
   },
-
   {
     path: 'contact',
     component: Contact,
   },
-
+  {
+    path: 'experience',
+    component: Experience
+  }
 ]
