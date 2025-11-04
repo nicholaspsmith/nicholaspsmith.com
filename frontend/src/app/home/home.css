@@ -3,3 +3,15 @@
   flex-direction: column;
   height: 100%;
 }
+
+.contact-button span,
+.resume-button span,
+.github-button span {
+  transition: gap 0.3s ease;
+}
+
+.contact-button svg,
+.resume-button svg,
+.github-button svg {
+  transition: width 0.3s ease, opacity 0.3s ease, transform 0.3s ease;
+}
