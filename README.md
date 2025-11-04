@@ -1,5 +1,3 @@
-# Nicholas Smith
-
 <!--toc:start-->
 ## Contributions
 
