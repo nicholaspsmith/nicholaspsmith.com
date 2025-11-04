@@ -5,26 +5,25 @@
 <!--toc:start-->
 ## Professional Profile
 
-[Download My Resume](./frontend/public/resume/Nicholas_Smith_Resume_2025.pdf)
+[View My Resume](./frontend/public/resume/Nicholas_Smith_Resume_2025.pdf)
 
-- [Nicholas Smith](#nicholas-smith)
-  - [Software Engineer](#software-engineer)
-  - [About](#about)
-  - [Experience](#experience)
-    - [Senior Software Engineer, MongoDB — Remote (2022 - 2025)](#senior-software-engineer-mongodb-remote-2022-2025)
-    - [Senior Software Engineer, Cisco — Austin, TX (2019 - 2022)](#senior-software-engineer-cisco-austin-tx-2019-2022)
-    - [Founder / Software Engineer, Dreamline Studios — Austin, TX (2015 - 2019)](#founder-software-engineer-dreamline-studios-austin-tx-2015-2019)
-    - [Senior Technologist, Handsome — Austin, TX (2018 - 2019)](#senior-technologist-handsome-austin-tx-2018-2019)
-    - [Software Engineer III, Sovos — Boulder, CO (2016 - 2017)](#software-engineer-iii-sovos-boulder-co-2016-2017)
-    - [Web Developer, Fahrenheit — Austin, TX (2014 - 2015)](#web-developer-fahrenheit-austin-tx-2014-2015)
-  - [Education](#education)
-  - [Technologies](#technologies)
-  - [Website](#website)
+- [Software Engineer](#contact)
+- [About](#about)
+- [Experience](#experience)
+  - [Senior Software Engineer, MongoDB — Remote (2022 - 2025)](#senior-software-engineer-mongodb-remote-2022-2025)
+  - [Senior Software Engineer, Cisco — Austin, TX (2019 - 2022)](#senior-software-engineer-cisco-austin-tx-2019-2022)
+  - [Founder / Software Engineer, Dreamline Studios — Austin, TX (2015 - 2019)](#founder-software-engineer-dreamline-studios-austin-tx-2015-2019)
+  - [Senior Technologist, Handsome — Austin, TX (2018 - 2019)](#senior-technologist-handsome-austin-tx-2018-2019)
+  - [Software Engineer III, Sovos — Boulder, CO (2016 - 2017)](#software-engineer-iii-sovos-boulder-co-2016-2017)
+  - [Web Developer, Fahrenheit — Austin, TX (2014 - 2015)](#web-developer-fahrenheit-austin-tx-2014-2015)
+- [Education](#education)
+- [Technologies](#technologies)
+- [Website](#website)
 <!--toc:end-->
 
-## Software Engineer
+## Contact
 
-Charleston, SC | [nicholaspsmith.software@gmail.com](mailto:nicholaspsmith.software@gmail.com)
+[nicholaspsmith.com](https://nicholaspsmith.com) | [Linkedin](https://linkedin.com/in/nps90) | [nicholaspsmith.software@gmail.com](mailto:nicholaspsmith.software@gmail.com)
 
 ---
 
