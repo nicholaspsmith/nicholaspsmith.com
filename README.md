@@ -1,6 +1,6 @@
 ## Contributions This Week
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&days=7&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&days=7&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholaspsmith&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
