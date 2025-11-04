@@ -18,7 +18,7 @@
 
 ## Contributions
 
-[ez40's Github Contribution Graph'](https://github-contribution-graph.ez4o.com/?username=nicholaspsmith&last_n_days=365)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&theme=merko)](https://github.com/nicholaspsmith/github-readme-activity-graph)
 
 ## Software Engineer
 
