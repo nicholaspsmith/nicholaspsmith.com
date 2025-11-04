@@ -1,6 +1,10 @@
 # Nicholas Smith
 
 <!--toc:start-->
+## Contributions
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&theme=merko)](https://github.com/nicholaspsmith/github-readme-activity-graph)
+
 - [Nicholas Smith](#nicholas-smith)
   - [Software Engineer](#software-engineer)
   - [About](#about)
@@ -15,10 +19,6 @@
   - [Technologies](#technologies)
   - [Website](#website)
 <!--toc:end-->
-
-## Contributions
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&theme=merko)](https://github.com/nicholaspsmith/github-readme-activity-graph)
 
 ## Software Engineer
 
