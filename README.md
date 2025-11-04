@@ -5,6 +5,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&theme=merko)](https://github.com/nicholaspsmith/github-readme-activity-graph)
 
+## Professional Profile
+
 - [Nicholas Smith](#nicholas-smith)
   - [Software Engineer](#software-engineer)
   - [About](#about)
