@@ -70,7 +70,7 @@ BSBA Management Information Systems (MIS)
 
 ## Technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaspsmith&stats_format=bytes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaspsmith&stats_format=bytes&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Professional Experience With The Following
 
