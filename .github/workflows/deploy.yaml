@@ -45,7 +45,7 @@ jobs:
         run: cd frontend && pnpm install --frozen-lockfile
 
       - name: Build Angular app
-        run: cd frontend && pnpm build -- --base-href=/
+        run: cd frontend && pnpm build --base-href=/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
