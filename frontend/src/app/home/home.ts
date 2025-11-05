@@ -10,7 +10,7 @@ import { animate, stagger, splitText } from 'animejs';
 })
 export class Home implements AfterViewInit {
   ngAfterViewInit(): void {
-    const { chars } = splitText('h2', { words: false, chars: true });
+    const { chars } = splitText('h1', { words: false, chars: true });
 
     animate(chars, {
       // Property keyframes
@@ -20,7 +20,7 @@ export class Home implements AfterViewInit {
       ],
       delay: stagger(50),
       ease: 'inOutCirc',
-      loopDelay: 3000,
+      loopDelay: 2800,
       loop: true
     });
   }

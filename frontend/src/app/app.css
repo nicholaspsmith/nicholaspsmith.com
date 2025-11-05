@@ -21,20 +21,28 @@ main {
   object-fit: cover;
   width: 100%;
   height: 100%;
+  transition: filter 0.3s ease;
+}
+
+:host-context(html:not(.dark)) #matrix-background {
+  filter: invert(30%);
 }
 
 #video-attribution {
   font-size: 9px;
-  opacity: 0.3;
-  color: #ddd;
-  position: fixed;
-  bottom: 5px;
-  left: 10px;
+  opacity: 0.5;
+  position: absolute;
+  bottom: 132px;
+  left: 6px;
   z-index: -98;
+  color: #ddd;
+}
+
+:host-context(html:not(.dark)) #video-attribution {
+  color: #3f3f3f;
 }
 
 #background-overlay {
-  background-color: rgba(30, 41, 56, 0.5);
   display: block;
   position: fixed;
   top: 0;
@@ -42,4 +50,10 @@ main {
   right: 0;
   bottom: 0;
   z-index: -98;
+  transition: background-color 0.3s ease;
+  background-color: rgba(30, 41, 56, 0.5);
+}
+
+:host-context(html:not(.dark)) #background-overlay {
+  background-color: rgba(0, 112, 176, 0.59);
 }

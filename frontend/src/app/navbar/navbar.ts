@@ -2,6 +2,7 @@ import { Router, RouterLink } from '@angular/router';
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { NavLink } from './nav-link/nav-link';
+import { ThemeService } from '../services/theme.service';
 
 @Component({
   selector: 'app-navbar',
@@ -11,8 +12,11 @@ import { NavLink } from './nav-link/nav-link';
 })
 export class Navbar {
   menuClass = 'max-h-0';
+  protected themeService: ThemeService;
 
-  constructor(private router: Router) { }
+  constructor(private router: Router, themeService: ThemeService) {
+    this.themeService = themeService;
+  }
 
   ngOnInit() {
     this.router.events.subscribe((event: { constructor: { name: string; }; }) => {

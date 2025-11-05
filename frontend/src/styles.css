@@ -8,6 +8,83 @@
   --site-background: #000;
 }
 
+html.dark {
+  color-scheme: dark;
+}
+
+html:not(.dark) {
+  color-scheme: light;
+}
+
+/* Light Mode Overrides */
+html:not(.dark) body {
+  @apply bg-gray-50 text-gray-900;
+}
+
+html:not(.dark) nav {
+  @apply bg-gray-100;
+}
+
+html:not(.dark) footer {
+  @apply bg-gray-100;
+}
+
+/* Home page light mode */
+html:not(.dark) .home-intro {
+  @apply text-gray-300;
+}
+
+html:not(.dark) h1.home-heading {
+  color: #0ee077;
+}
+
+html:not(.dark) h2.home-heading {
+  @apply text-gray-300;
+}
+
+html:not(.dark) .home-tagline {
+  @apply text-gray-300;
+}
+
+html:not(.dark) .home-buttons button,
+html:not(.dark) .home-buttons a {
+  @apply border-white text-white;
+}
+
+html:not(.dark) .home-buttons a:hover {
+  @apply text-white;
+}
+
+html:not(.dark) .home-buttons svg {
+  @apply stroke-white;
+}
+
+/* Content boxes light mode */
+html:not(.dark) .content-box {
+  @apply bg-gray-800 text-gray-100 opacity-70;
+}
+
+html:not(.dark) .content-box .text-gray-800 {
+  @apply text-gray-100;
+}
+
+html:not(.dark) .content-box .text-gray-600 {
+  @apply text-gray-300;
+}
+
+html:not(.dark) .content-box .text-gray-700 {
+  @apply text-gray-200;
+}
+
+html:not(.dark) .content-box .text-sm {
+  @apply text-gray-100;
+}
+
+/* Contact page headings light mode */
+html:not(.dark) .contact-box-heading {
+  @apply text-gray-100;
+}
+
 /* Global Styles */
 html,
 body {
