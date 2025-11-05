@@ -1,10 +1,10 @@
 import { CommonModule } from '@angular/common';
 import { Component, Input, Output, EventEmitter } from '@angular/core';
-import { RouterLink } from '@angular/router';
+import { RouterLink, RouterLinkActive } from '@angular/router';
 
 @Component({
   selector: 'app-nav-link',
-  imports: [RouterLink, CommonModule],
+  imports: [RouterLink, RouterLinkActive, CommonModule],
   templateUrl: './nav-link.html',
   styleUrl: './nav-link.css',
 })
@@ -14,7 +14,7 @@ export class NavLink {
   @Input() isMobile: boolean = false;
   @Output() linkClicked = new EventEmitter<void>();
 
-  desktopClass = 'rounded-md bg-gray-950/50 px-3 py-2 text-sm font-medium text-white';
+  desktopClass = 'desktop rounded-md bg-[#253967] from-gray-800 to-gray-900 px-3 py-2 text-sm font-medium text-white transition-all duration-75 shadow-lg active-nav-btn';
   mobileClass = 'block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-white/5 hover:text-white';
 
   onLinkClick(): void {

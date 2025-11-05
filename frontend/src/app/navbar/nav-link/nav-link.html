@@ -1,3 +1,4 @@
-<a [routerLink]="route" (click)="onLinkClick()" [ngClass]="isMobile ? mobileClass : desktopClass">
+<a [routerLink]="route" (click)="onLinkClick()" [ngClass]="isMobile ? mobileClass : desktopClass"
+  routerLinkActive="nav-link-active" [routerLinkActiveOptions]="{ exact: true }">
   {{ label }}
 </a>
