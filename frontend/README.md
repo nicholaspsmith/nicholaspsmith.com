@@ -1,4 +1,7 @@
-# Frontend
+# Nicholas P Smith (dot) com
+[![Deploy to GitHub Pages](https://github.com/nicholaspsmith/nicholaspsmith/actions/workflows/deploy.yaml/badge.svg)](https://github.com/nicholaspsmith/nicholaspsmith/actions/workflows/deploy.yaml)
+
+## Framework
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
 
