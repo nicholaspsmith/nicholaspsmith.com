@@ -5,8 +5,8 @@
     <div class="w-16 md:w-20 lg:w-24 h-1 bg-linear-to-r from-blue-600 to-cyan-500 mb-4 md:mb-6"></div>
   </div>
 
-  <!-- PDF Viewer -->
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden relative aspect-[8.5/11] max-w-2xl mx-auto">
+  <!-- Resume Image -->
+  <div class="relative max-w-2xl mx-auto">
     <button (click)="downloadResume()"
       class="bg-linear-to-r from-blue-600 to-cyan-500 text-white font-semibold px-4 md:px-6 py-2 md:py-3 rounded-lg hover:from-blue-700 hover:to-cyan-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all transform hover:scale-[1.02] cursor-pointer flex items-center gap-2 absolute top-3 md:top-4 left-3 md:left-5 opacity-65 hover:opacity-100 text-xs md:text-sm z-10">
       <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -15,6 +15,6 @@
       </svg>
       Download&nbsp;PDF
     </button>
-    <iframe src="/resume/Nicholas_Smith_Resume_2025.pdf" class="w-full h-full" title="Nicholas Smith Resume"></iframe>
+    <img src="/resume/Nicholas_Smith_Resume_2025.jpg" alt="Nicholas Smith Resume" class="w-full rounded-lg shadow-lg">
   </div>
 </section>
