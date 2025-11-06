@@ -50,3 +50,17 @@ a.desktop:active:not(.nav-link-active) {
     0 1px 0 #000,
     0 2px 4px rgba(27, 27, 27, 0.63);
 }
+
+:host-content(html:not(.dark)) #mobile-menu-button:hover {
+  color: black;
+}
+
+:host-context(html:not(.dark)) #mobile-menu a {
+  color: oklch(27.8% 0.033 256.848);
+  transition: background 100ms ease-in-out;
+
+  &:hover {
+    background: #1f638799;
+    color: white;
+  }
+}

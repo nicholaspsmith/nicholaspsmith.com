@@ -88,6 +88,12 @@ html:not(.dark) .contact-box-heading {
 
 html:not(.dark) #mobile-menu a {
   @apply text-gray-800;
+  transition: background 100ms ease-in-out;
+
+  &:hover {
+    background: #1f638799;
+    color: white;
+  }
 }
 
 /* End AI Generated styles */

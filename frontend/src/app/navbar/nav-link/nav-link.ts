@@ -15,7 +15,7 @@ export class NavLink {
   @Output() linkClicked = new EventEmitter<void>();
 
   desktopClass = 'desktop rounded-md bg-[#253967] from-gray-800 to-gray-900 px-3 py-2 text-sm font-medium text-white transition-all duration-75 shadow-lg active-nav-btn';
-  mobileClass = 'block rounded-md px-3 py-2 text-base font-medium text-gray-800 dark:text-gray-300 hover:bg-white/5 hover:text-white';
+  mobileClass = 'mobile block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-white/5 hover:text-white';
 
   onLinkClick(): void {
     this.linkClicked.emit();
