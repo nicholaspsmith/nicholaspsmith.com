@@ -16,6 +16,7 @@ html:not(.dark) {
   color-scheme: light;
 }
 
+/* AI Generated styles. TODO: clean up the mess */
 /* Light Mode Overrides */
 html:not(.dark) body {
   @apply bg-gray-50 text-gray-900;
@@ -84,6 +85,12 @@ html:not(.dark) .content-box .text-sm {
 html:not(.dark) .contact-box-heading {
   @apply text-gray-100;
 }
+
+html:not(.dark) #mobile-menu a {
+  @apply text-gray-800;
+}
+
+/* End AI Generated styles */
 
 /* Global Styles */
 html,
