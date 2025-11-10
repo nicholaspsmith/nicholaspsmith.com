@@ -1,6 +1,6 @@
 ## Contributions This Week
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&days=7&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicholaspsmith&days=5&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--toc:start-->
 ## Professional Profile
