@@ -1,3 +1,11 @@
 #mobile-menu {
   transition: max-height 250ms linear;
 }
+
+nav {
+  transition: background 250ms ease-in-out;
+}
+
+:host-context(html:not(.dark)) nav {
+  background: var(--color-gray-100);
+}

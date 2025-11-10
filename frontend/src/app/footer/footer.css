@@ -1,0 +1,8 @@
+footer {
+  transition: background 250ms ease-in-out;
+  background: var(--color-gray-800);
+}
+
+:host-context(html:not(.dark)) footer {
+  background: var(--color-gray-100);
+}
